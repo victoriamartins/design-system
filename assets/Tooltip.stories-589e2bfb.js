@@ -1,0 +1,4 @@
+import{j as s}from"./jsx-runtime-029f9c0a.js";import{C as i,B as p,T as n}from"./index-1b051614.js";import"./index-ad8e37b4.js";import"./_commonjsHelpers-725317a4.js";import"./inheritsLoose-8f91d493.js";const d={title:"Feedback/Tooltip",component:i,args:{title:"Tooltip!",open:!0},decorators:[t=>s.jsx(p,{css:{height:"50px",textAlign:"center"},children:t()})]},o=t=>s.jsx(i,{...t,children:s.jsx(n,{as:"span",children:"This is a component"})});var r,e,a;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:`(args: CustomTooltipProps) => <CustomTooltip {...args}>
+    <Text as="span">This is a component</Text>
+  </CustomTooltip>`,...(a=(e=o.parameters)==null?void 0:e.docs)==null?void 0:a.source}}};const u=["Primary"];export{o as Primary,u as __namedExportsOrder,d as default};
+//# sourceMappingURL=Tooltip.stories-589e2bfb.js.map
